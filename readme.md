@@ -17,4 +17,6 @@ I found Foam to be the easiest solution among others, including:
 
 Of course, these options could work for you. Try them!
 
-## 
+## test
+[[The two disruptions - Marx & Scholz]]
+[The two disruptions - Marx & Scholz](docs/The two disruptions - Marx & Scholz.md)
