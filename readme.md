@@ -13,7 +13,7 @@ I made mine using [VS Code](https://code.visualstudio.com/) + [Foam](https://git
 I found Foam to be the easiest solution among others, including:
 
 - [Obsidian](https://obsidian.md/) + [Quartz](https://quartz.jzhao.xyz/)
-- [[Obsidian]] + [MkDocs](https://github.com/jobindj/obsidian-publish-mkdocs)
+- [Obsidian](docs/Obsidian.md) + [MkDocs](https://github.com/jobindj/obsidian-publish-mkdocs)
 
 Of course, these options could work for you. Try them!
 
