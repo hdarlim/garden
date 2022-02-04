@@ -74,42 +74,5 @@ The exclusive positioning of the feminine in activities related to reproduction 
 
 Before, during and maybe after the pandemic, women will be obligated to continue taking care of their children and their husbands during the holidays or not. Men, on the other hand, do not really have this obligation even during the extra-festive period; during the festivities, then, they can pretend they are absolutely free of responsibilities. When men are not participating in the process of production, all that remains is fun and pleasure since they cannot engage in female activities. Hence the importance of understanding both capitalist domination and patriarchal domination as dominations without a subject. Otherwise, it is too easy to fall into the traps of moralisation.
 
-## a
 [^1]: If we are to accept liberal democracy as equivalent to a bourgeois dictatorship, mainstream media stands at the ideological frontline, securing the status quo maintenance and assuring the capitalist discourse is left for the most part unquestioned.
-[^2]: Ironically, Marx saying he was not a Marxist was not sufficient to impede an equivalence between his method and dogma during most part of the 20th century — for more on this, check Michael Heinrich, “Je ne suis pas marxiste”, available at https://libcom.org/library/%E2%80%9Eje-ne-suis-pas-marxiste%E2%80%9C. However, Benjamin fortuitously critiqued this association in a well-known aphorism: Walter Benjamin, “I,” in On the Concept of History, trans. Dennis Redmond (2005), available at https://www.marxists.org/reference/archive/benjamin/1940/history.htm. 
-
-## References
-
-Callinicos, Alex. “Marx’s Method.” In The Revolutionary Ideas of Karl Marx, 70-91. Chicago: Haymarket Books, 2011.
-
-Carchedi, Guglielmo. “Method.” In Behind the Crisis: Marx’s Dialectics of Value and Knowledge, 1-52. Leiden: Brill, 2011.
-
-Deleuze, Gilles, and Felix Guattari. Anti-Oedipus. Minneapolis: University of Minnesota Press, 2000.
-
-Grespan, Jorge. O negativo do Capital: o conceito de crise na crítica de Marx à economia política. São Paulo: Expressão Popular, 2012.
-
-Heinrich, Michael. An Introduction to the Three Volumes of Karl Marx’s Capital. New York: Monthly Review Press, 2012. 
-
-Heinrich, Michael, and Rômulo Lima. “Objetividade valor e forma valor. Apontamentos de Marx para a segunda edição de O Capital.” Revista de Economia Política 38, no. 1 (March 2018): 201-214. https://doi.org/10.1590/0101-31572018v38n01a12.
-
-Junior, Itamar Vieira. Torto Arado. São Paulo: Todavia, 2019.
-
-Kurz, Robert. “Dominação sem sujeito: sobre a superação de uma crítica social redutora.” Seminar, Seminário Internacional “A Teoria Crítica Radical, Superação do Capitalismo e a Emancipação Humana”, Fortaleza, October 29, 2000. https://www.marxists.org/portugues/kurz/1993/mes/90.htm [Available in English in two parts: for part 1: https://libcom.org/library/domination-without-subject-part-one-robert-kurz; for part 2: https://libcom.org/library/domination-without-subject-part-two-robert-kurz]. 
-
-Land, Nick. “Making it with Death: Remarks on Thanatos and Desiring-Production.” In Fanged Noumena: Collected Writings 1987-2007, edited by Robin Mackay and Ray Brassier, 261-287. Windsor Quarry: Urbanomic; New York: Sequence Press, 2012.
-
-Leite, Taylisi. Crítica ao feminismo liberal: valor-clivagem e marxismo feminista. São Paulo: Contracorrente, 2020.
-
-Mariutti, Eduardo Barros. “Capital mercantil e autônomo e a transição ao capitalismo: a polêmica sobre as duas vias e o papel das cidades.” Revista Brasileira de Desenvolvimento Regional 8, no. 2 (August 2020): 7-32. http://dx.doi.org/10.7867/2317-5443.2020v8n2p7-32. 
-
-Marx, Karl. “Volume I: Capitalist Production.” In Capital: A Critical Analysis of Capitalist Production, 2-542. Translated by Samuel Moore and Edward Aveling. Hertfordshire: Wordsworth, 2013.
-
-Marx, Karl. Grundrisse: Foundations of the Critique of Political Economy (Rough Draft). Translated by Martin Nicolaus. London: Penguin Books, 1993.
-
-Müller, Marcos Lutz. “Exposição e método dialético em ‘O Capital’.” Boletim SEAF, no. 2 (1982). https://eleuterioprado.files.wordpress.com/2015/09/muller-exposic3a7c3a3o-e-mc3a9todo-dialc3a9tico-em-marx.pdf.
-
-Netto, José Paulo, and Marcelo Braz. Economia política: uma introdução crítica. São Paulo: Cortez Editora, 2012.
-
-Scholz, Roswitha. “O valor é o homem: teses sobre a socialização pelo valor e a relação entre os sexos.” Novos Estudos – CEBRAP 2, no. 45 (July 1996): 15-36. Translated by José Marcos Macedo. http://novosestudos.com.br/wp-content/uploads/2017/05/13_o_valor_e_o_homem.pdf.zip [Available in German at: http://wkb.blogsport.de/images/RoswithaScholzDerWertIstDerMann.pdf].
-
-Scholz, Roswitha. “Patriarchy and Commodity Society: Gender without the Body.” In Marxism and the Critique of Value, 123-142. Edited by Neil Larsen, Mathias Nilges, Josh Robinson, and Nicholas Brown. Chicago: MCM’ Publishing, 2014.
+[^2]: Ironically, Marx saying he was not a Marxist was not sufficient to impede an equivalence between his method and dogma during most part of the 20th century — for more on this, check Michael Heinrich, “Je ne suis pas marxiste”, available at https://libcom.org/library/%E2%80%9Eje-ne-suis-pas-marxiste%E2%80%9C. However, Benjamin fortuitously critiqued this association in a well-known aphorism: Walter Benjamin, “I,” in On the Concept of History, trans. Dennis Redmond (2005), available at https://www.marxists.org/reference/archive/benjamin/1940/history.htm.
