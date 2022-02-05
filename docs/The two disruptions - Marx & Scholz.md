@@ -35,6 +35,7 @@ A commodity’s value is then revealed to be measured according to the amount of
 We have finally made the way to value starting from exchange value. As exchange value manifests itself commonly in the money form, what needs to be done then is to “solve the riddle presented by money”[^19]  by working our way into the progressively complex forms of value until capital is reached. This journey starts, of course, with the simplest relation between commodities: that of one commodity of a kind with another of another kind, which Marx calls the _elementary or accidental form of value_: _x_ commodity A = y commodity B.
 
 But this elementary relation does not include any other interactions between commodities other than a one-to-one relation. However, what makes feasible equating A and B, one commodity to another, can be easily and intentionally expanded to include more of them, commodities C, D, E etc[^20]. Therefore, we have the total or expanded form of value:
+<div align="center">
 
 _x_ commodity A = _y_ commodity B
 
@@ -43,13 +44,16 @@ _x_ commodity A = _z_ commodity C
 _x_ commodity A = _α_ commodity D
 
 ⁝
+</div>
 
 Here is presumed a kind of alterity: A can only be exchanged for B _or_ exchanged for C _or_ for D. On one hand, it seems like its value is not fixed but instantaneous, available at the exact moment of exchange and only at this precise moment. On the other hand, this is the first form in which value can — emphasis on _can_ instead of _will_ — be understood as “a congelation of undifferentiated human labour”[^21]. The second form of value also negates the accidental appearance of the first form, says Marx, since it shows value actually defines exchange proportions while denying the opposite, that exchange process function as the determining factor for commodities’ values[^22].
 
 Still, mimicking Deleuze and Guattari’s terminology, this is a disjointed form of value insofar as it is an _either…or_ relation; what we need is a truly connected _and…and_ form. If we express what is contained hidden within that form, we get the _general form of value_: “All commodities now express their value (1) in an elementary form, because in a single commodity; (2) with unity, because in one and the same commodity. This form of value is elementary and the same for all, therefore general.”[^23]
 It can be represented by the following:
+<div align="center">
 
 _x_ commodity A = _y_ commodity B, _z_ commodity C, _α_ commodity D, …
+</div>
 
 Now value _will_ finally be generalized as an expression of something shared by all commodities. The general form is a reciprocal form of value, meaning all commodities recognize each other as equivalents in its social relation. The magnitude of their values can be compared: if 2 kg of chocolate are equal to 6 litres of milk, and 6 litres of milk equate 3 kg of coffee, 2 kg of chocolate = 6 litres of milk _and_ 3 kg of coffee. Furthermore, the amount of labour contained in 1 litre of milk is ⅓ of the labour contained in 1 kg of chocolate and ½ of the labour contained in 1 kg of coffee.
 
@@ -102,10 +106,10 @@ Before, during and maybe after the pandemic, women will be obligated to continue
 ### Notes
 
 [^1]: If we are to accept liberal democracy as equivalent to a bourgeois dictatorship, mainstream media stands at the ideological frontline, securing the status quo maintenance and assuring the capitalist discourse is left for the most part unquestioned.
-[^2]: Ironically, Marx saying he was not a Marxist was not sufficient to impede an equivalence between his method and dogma during most part of the 20th century — for more on this, check Michael Heinrich, “_Je ne suis pas marxiste_”, available at https://libcom.org/library/%E2%80%9Eje-ne-suis-pas-marxiste%E2%80%9C. However, Benjamin fortuitously critiqued this association in a well-known aphorism: Walter Benjamin, “I,” in _On the Concept of History_, trans. Dennis Redmond (2005), available at https://www.marxists.org/reference/archive/benjamin/1940/history.htm.
+[^2]: Ironically, Marx saying he was not a Marxist was not sufficient to impede an equivalence between his method and dogma during most part of the 20th century — for more on this, check Michael Heinrich, “_Je ne suis pas marxiste_”, available at [https://libcom.org/library/%E2%80%9Eje-ne-suis-pas-marxiste%E2%80%9C](https://libcom.org/library/%E2%80%9Eje-ne-suis-pas-marxiste%E2%80%9C). However, Benjamin fortuitously critiqued this association in a well-known aphorism: Walter Benjamin, “I,” in _On the Concept of History_, trans. Dennis Redmond (2005), available at [https://www.marxists.org/reference/archive/benjamin/1940/history.htm](https://www.marxists.org/reference/archive/benjamin/1940/history.htm).
 [^3]: Marcos Lutz Müller, “Exposição e método dialético em ‘O Capital’,” _Boletim SEAF_, no. 2 (1982): 4-5.
 [^4]: Alex Callinicos, “Marx’s Method,” in The Revolutionary Ideas of Karl Marx (Chicago: Haymarket Books, 2011), 75, 83.
-[^5]: Michael Heinrich and Rômulo Lima, “Objetividade valor e forma valor. Apontamentos de Marx para a segunda edição de O _Capital_,” Revista de Economia Política 38, no. 1 (March 2018): 211-212, https://doi.org/10.1590/0101-31572018v38n01a12.
+[^5]: Michael Heinrich and Rômulo Lima, “Objetividade valor e forma valor. Apontamentos de Marx para a segunda edição de O _Capital_,” Revista de Economia Política 38, no. 1 (March 2018): 211-212, [https://doi.org/10.1590/0101-31572018v38n01a12](https://doi.org/10.1590/0101-31572018v38n01a12).
 [^6]: Karl Marx, “Volume I: Capitalist Production,” in _Capital_: A Critical Analysis of Capitalist Production, trans. Samuel Moore and Edward Aveling (Hertfordshire: Wordsworth, 2013), 7. 
 [^7]: Callinicos, “Marx’s Method,” 81.
 [^8]: Ibid.
@@ -121,3 +125,23 @@ Before, during and maybe after the pandemic, women will be obligated to continue
 [^18]: Marx, “Volume 1,” 27, 42; Heinrich, _An Introduction_, 64.
 [^19]: Ibid., 27.
 [^20]: Ibid., 39.
+[^21]: Ibid.
+[^22]: Ibid., 40.
+[^23]: Ibid., 41.
+[^24]: Ibid., 43.
+[^25]: Heinrich, and Lima, “Objetividade valor,” 208-209.
+[^26]:  Marx, “Volume 1,” 45.
+[^27]: Ibid., 46.
+[^28]: Ibid., 37.
+[^29]: Ibid., 38; Jorge Grespan, _O negativo do Capital_ (São Paulo: Expressão Popular, 2012), 43-45.
+[^30]: Marx, “Volume 1,” 64.
+[^31]: Heinrich, _An Introduction_, 63.
+[^32]: Marx, “Volume 1,” 77.
+[^33]: Grespan, _O negativo_, 69.
+[^34]: Marx, “Volume 1,” 105-107.
+[^35]: The transformation of value basically means capital’s origin cannot be the result of a surplus exchange value. In other words, capital cannot be born out of the circulation process, of commerce, since what changes inside this process is price and not value. José Paulo Netto and Marcelo Braz even posit commercial capital’s circuit as being M-C-M⁺ instead of M-C-M’ to illustrate their difference. As for the historical reason behind such contrasting circuits, Eduardo Barros Mariutti argues merchant capital was incapable of ruling commodity production, limiting itself to exchanging and selling commodities. José Paulo Netto and Marcelo Braz, _Economia política: uma introdução crítica_ (São Paulo: Cortez Editora, 2012), 94-97; Eduardo Barros Mariutti, “Capital mercantil e autônomo e a transição ao capitalismo: a polêmica sobre as duas vias e o papel das cidades,” _Revista Brasileira de Desenvolvimento Regional_ 8, no. 2 (August 2020): 8-9. [http://dx.doi.org/10.7867/2317-5443.2020v8n2p7-32](http://dx.doi.org/10.7867/2317-5443.2020v8n2p7-32).
+[^36]: Marx, “Volume 1,” 104.
+[^37]: Ibid., 102.
+[^38]: Two outdated but classical works that address this are Maurice Dobb’s _Studies on the Development of Capitalism_ and Leo Huberman’s _Man’s Worldly Goods: The Story of the Wealth of Nations_.
+[^39]: The stylisation of ‘commoditized’ is no accident. The relation between labour power and both slavery and feudalism are explicitly different from the one which takes place in the capitalist mode of production. A number of reasons as to why that is are offered a little later in the book: on page 114 of the first volume of _Capital_, Marx says the following: “For the conversion of his money into capital, therefore, the owner of money must meet in the market with the free labourer, free in the double sense, that as a free man he can dispose of his labour power as his own commodity, and that on the other hand he has no other commodity for sale, is short of everything necessary for the realisation of his labour power […] This relation has no natural basis, neither is its social basis one that is common to all historical periods. It is clearly the result of a past historical development, the product of many economic revolutions, of the extinction of a whole series of older forms of social production.”
+[^40]: Ibid., 113; Grespan, _O negativo_, 72. 
