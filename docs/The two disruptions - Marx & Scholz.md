@@ -35,7 +35,6 @@ A commodity’s value is then revealed to be measured according to the amount of
 We have finally made the way to value starting from exchange value. As exchange value manifests itself commonly in the money form, what needs to be done then is to “solve the riddle presented by money”[^19]  by working our way into the progressively complex forms of value until capital is reached. This journey starts, of course, with the simplest relation between commodities: that of one commodity of a kind with another of another kind, which Marx calls the _elementary or accidental form of value_: _x_ commodity A = y commodity B.
 
 But this elementary relation does not include any other interactions between commodities other than a one-to-one relation. However, what makes feasible equating A and B, one commodity to another, can be easily and intentionally expanded to include more of them, commodities C, D, E etc[^20]. Therefore, we have the total or expanded form of value:
-<div align="center">
 
 _x_ commodity A = _y_ commodity B
 
@@ -44,16 +43,13 @@ _x_ commodity A = _z_ commodity C
 _x_ commodity A = _α_ commodity D
 
 ⁝
-</div>
 
 Here is presumed a kind of alterity: A can only be exchanged for B _or_ exchanged for C _or_ for D. On one hand, it seems like its value is not fixed but instantaneous, available at the exact moment of exchange and only at this precise moment. On the other hand, this is the first form in which value can — emphasis on _can_ instead of _will_ — be understood as “a congelation of undifferentiated human labour”[^21]. The second form of value also negates the accidental appearance of the first form, says Marx, since it shows value actually defines exchange proportions while denying the opposite, that exchange process function as the determining factor for commodities’ values[^22].
 
 Still, mimicking Deleuze and Guattari’s terminology, this is a disjointed form of value insofar as it is an _either…or_ relation; what we need is a truly connected _and…and_ form. If we express what is contained hidden within that form, we get the _general form of value_: “All commodities now express their value (1) in an elementary form, because in a single commodity; (2) with unity, because in one and the same commodity. This form of value is elementary and the same for all, therefore general.”[^23]
 It can be represented by the following:
-<div align="center">
 
 _x_ commodity A = _y_ commodity B, _z_ commodity C, _α_ commodity D, …
-</div>
 
 Now value _will_ finally be generalized as an expression of something shared by all commodities. The general form is a reciprocal form of value, meaning all commodities recognize each other as equivalents in its social relation. The magnitude of their values can be compared: if 2 kg of chocolate are equal to 6 litres of milk, and 6 litres of milk equate 3 kg of coffee, 2 kg of chocolate = 6 litres of milk _and_ 3 kg of coffee. Furthermore, the amount of labour contained in 1 litre of milk is ⅓ of the labour contained in 1 kg of chocolate and ½ of the labour contained in 1 kg of coffee.
 
