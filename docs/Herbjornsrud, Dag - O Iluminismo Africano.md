@@ -1,5 +1,7 @@
 # Herbjørnsrud, Dag - O Iluminismo africano
 
+#translation
+
 [Texto original](https://aeon.co/essays/yacob-and-amo-africas-precursors-to-locke-hume-and-kant) publicado na [Aeon](Aeon.md).
 
 ---
