@@ -1,5 +1,9 @@
 # Herbjørnsrud, Dag - O Iluminismo africano
 
+[Texto original](https://aeon.co/essays/yacob-and-amo-africas-precursors-to-locke-hume-and-kant) publicado na [Aeon](Aeon.md).
+
+---
+
 Os ideais do Iluminismo são a base de nossas democracias e universidades no século XXI: isto é, a crença na razão, na ciência, o ceticismo, o secularismo e a igualdade. Na verdade, nenhuma outra era se compara com a Era do Esclarecimento. A Antiguidade Clássica é inspiradora, mas é um mundo de distância das sociedades modernas. O período medieval era mais razoável do que sua clássica reputação lhe faz parecer, mas ainda assim era o mundo medieval. O Renascimento foi glorioso, mas em grande parte devido ao seu resultado: o Iluminismo. A Era Romântica foi uma reação à Era da Razão — os ideias dos modernos Estados, entretanto, expressam-se raramente nos termos do romantismo ou da emoção. O argumento de Immanuel Kant em seu ensaio ‘A Paz Perpétua’ (1795), de que a ‘raça humana’ deveria trabalhar em prol duma ‘constituição cosmopolita’ pode ser entendido como um precursor das Nações Unidas.
 
 De acordo com o que geralmente é contado, o Iluminismo se inicia com o _Discurso do Método_ (1637) de René Descartes, perpetuando-se através de John Locke, Isaac Newton, David Hume, Voltaire e Kant num período de um século e meio, até seu fim com a Revolução Francesa em 1789 ou, talvez, com o Terror em 1793. Quando Thomas Paine publicou _A Era da Razão_, em 1794, esse período havia atingido seu declínio. Napoleão, pelo contrário, ascendia.
