@@ -1,5 +1,5 @@
 # Herbjørnsrud, Dag - The African Enlightenment
-The [article](https://aeon.co/essays/yacob-and-amo-africas-precursors-to-locke-hume-and-kant) at [Aeon](Aeon.md). Available in portuguese [here](Herbjornsrud,%20Dag%20-%20O%20Iluminismo%20Africano.md)
+The [article](https://aeon.co/essays/yacob-and-amo-africas-precursors-to-locke-hume-and-kant) at [Aeon](Aeon.md). Available in portuguese [here](Herbjornsrud,%20Dag%20-%20O%20Iluminismo%20Africano.md).
 
 ## Central questions
 
@@ -11,11 +11,11 @@ The [article](https://aeon.co/essays/yacob-and-amo-africas-precursors-to-locke-h
 - But there were African thinkers who posited Enlightenment ideals before the European authors
   - Zera Yacob
   - Anton Amo
-- The theoretical endeavors of European authors contradict what is usually taken as their theory, i.e., while they were assumed to be free thinkers, their writings prove their preconceptions regarding race and gender
+- The theoretical endeavors of European authors contradict what is usually taken as their theory, _i.e._, while they were assumed to be free thinkers, their writings prove their preconceptions regarding race and gender, absent in the thought of their African peers
 
 ## Arguments
 
-Here we can observe a contrast between the European and African authors.
+We can observe a contrast between the African authors and the following European authors:
 
 ### Kant
 - Kant sees women as intelectually inferior to men, whose desire for them has a mere sexual nature, and understands the white race as the highest point of humanity
