@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O seguinte artigo foi publicado no volume 15 do [Plutonics Journal](https://plutonicsjournal.com/) e está disponível por lá [clicando aqui](https://plutonicsjournal.com/volume-xv/)!
+O seguinte artigo foi publicado no volume 15 do [Plutonics Journal](https://plutonicsjournal.com/) e está disponível por lá, em inglês, [clicando aqui](https://plutonicsjournal.com/volume-xv/)!
 
 ## Artigo
 
