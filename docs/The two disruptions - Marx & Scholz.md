@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an article I sent to be published on [Plutonics Journal](https://plutonicsjournal.com/).
+This is an article I sent to be published on [Plutonics Journal](https://plutonicsjournal.com/). It's available also on their site: [please check it too](https://plutonicsjournal.com/volume-xv/)!
 
 ## Article
 
@@ -190,4 +190,4 @@ Before, during and maybe after the pandemic, women will be obligated to continue
 [^65]: Vieira Junior, _Torto Arado_, 83.
 [^66]: Ibid., 84.
 [^67]: Ibid., 88-89.
-[^67]: Ibid., 101.
+[^68]: Ibid., 101.
